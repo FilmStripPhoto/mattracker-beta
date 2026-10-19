@@ -17,3 +17,7 @@ For Saturday testing: open this link on your phone while online, try a manual ev
 ## Hosting
 
 Static GitHub Pages site served from the main branch root. No build dependencies. Increase the service-worker cache version when publishing asset changes.
+
+## v0.2.0 — event selection
+
+Use Select event to choose NAGA San Antonio (October 24, 2026) or paste another Smoothcomp event URL. The upcoming directory opens on Smoothcomp. Selecting a different event replaces the current queue after the dialog explains this; export a backup first. Official competitor, match, bracket, schedule, and result links open separately. They are not a live data integration. On October 19 the NAGA match page reported brackets not published. Direct web retrieval returned 403 while browser viewing worked; no supported unattended feed has been verified.
